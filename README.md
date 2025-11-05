@@ -1,10 +1,10 @@
 # Quantum-Kernel-Methods-for-Market-Regime-Detection-A-Comparative-Study-with-Classical-SVMs
 
-Quantum Kernel SVM for S&P 500 Market Regimes
+#Quantum Kernel SVM for S&P 500 Market Regimes
 
 This project implements a Quantum Kernel Support Vector Machine (QSVM) to classify S&P 500 market regimes into Bull, Bear, and Sideways trends. It includes classical baselines (SVM and Random Forest) for comparison, feature engineering from historical stock data, and visualization of predictions.
 
-Features
+#Features
 
 Historical S&P 500 data download (2005–present) via yfinance
 
